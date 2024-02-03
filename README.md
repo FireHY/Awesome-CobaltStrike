@@ -1,6 +1,6 @@
 # Awesome CobaltStrike ![Awesome CobaltStrike](https://img.shields.io/badge/awesome-cobaltstrike-red.svg) ![Awesome community](https://img.shields.io/badge/awesome-community-green.svg)
 
-### Contents
+### Contents!
 
 - [0x00 Introduction](#0x00-introduction)
 - [0x01 Articles & Videos](#0x01-articles--videos)
